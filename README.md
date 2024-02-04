@@ -1,2 +1,2 @@
 # UniproLocd
-Title: UniproLocd uses multiple protein language models and combines convolutional neural networks and Bi- LSTM  to predict antimicrobial peptides.
+Predicting Antimicrobial Peptides: UniproLocd's Fusion of Protein Language Models and Neural Networks.
