@@ -15,7 +15,7 @@ Antimicrobial peptides (AMPs) are vital components of innate immunotherapy, and 
 2. Folder 'code' contains scripts for training the model and loading data. Load_data.py is the implementation of load raw protein sequences. model.py is the network architecture. UniproLocd.py was used to training the proposed model. utils.py is the implementation of calculate model score.
 3. Folder 'feature_extract' in folder 'code' contains the feature extraction of pre-trained language model. ProtBert.py is the implementation of ProtBert pre-trained language model. ESM.py is the implementation of ESM-2 pre-trained language model. Unirep.py is the implementation of Unirep pre-trained language model
 4. Folder 'result' contains model test result. test.py is the implementation of calculate model test result.
-5. You can also run Deepro-Glu model on your own datasets. Just replace the train_example.csv in UniproLcad.py with your own dataset.
+5. You can also run UniproLocd model on your own datasets. Just change the file path in the code.
 
 ### Note
 This code is for the article 'UniproLcad: Antimicrobial Peptide Prediction Using a Multi-Protein Language Model within a Deep Learning Framework Stack'.
